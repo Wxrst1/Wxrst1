@@ -24,12 +24,11 @@
 
 ### Studying:
 <a href = "#"><img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
-<a href = "#"><img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117" target="_blank"></a>
 
 ### Contact:
 
-<a href = "https://discord.com/users/921882398084452374" target="_blank"><img src="https://img.shields.io/badge/-discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117&textColor=0D1117"></a>
-<a href = "mailto:alphajrdev@gmail.com"><img src="https://img.shields.io/badge/-gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
+<a href = "https://discord.com/users/481308503013720064" target="_blank"><img src="https://img.shields.io/badge/-discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117&textColor=0D1117"></a>
+<a href = "mailto:wxrstbusiness@gmail.com"><img src="https://img.shields.io/badge/-gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 
 <a href = "#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d00ff&height=120&section=footer" target="_blank"></a>
 
