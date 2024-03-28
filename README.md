@@ -1,7 +1,7 @@
 <a href = "#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d00ff&height=120&section=header" target="_blank"></a>
 <h2 align="center">👋 Olá, eu sou @Wxrst</h1>
 <h3 align="center">Um apaixonado por programação.</h3>
-
+<a  align="center" href="https://app.daily.dev/wxrst"><img src="https://api.daily.dev/devcards/v2/eGwKogf4xtKgCBLrJuXNL.png?r=dv5" width="356" alt="Wxrst's Dev Card"/></a>
 <p align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wxrst1&show_icons=true&theme=transparent&hide_border=true&title_color=5d00ff&text_color=9400ff&icon_color=ffffff" alt="Estatísticas do GitHub">
   <img width="41%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wxrst1&layout=compact&theme=transparent&hide_border=true&title_color=5d00ff&text_color=9400ff&icon_color=ffffff" alt="Linguagens mais usadas">
@@ -32,4 +32,4 @@
 
 <a href = "#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d00ff&height=120&section=footer" target="_blank"></a>
 
-<a href="https://app.daily.dev/wxrst"><img src="https://api.daily.dev/devcards/v2/eGwKogf4xtKgCBLrJuXNL.png?r=dv5" width="356" alt="Wxrst's Dev Card"/></a>
+
